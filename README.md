@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kajal Kolhe</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Coding" src="[https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)" width="400">
+<img align="right" alt="Coding" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg?w=996" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkolhe5959&label=Profile%20views&color=0e75b6&style=flat" alt="kajalkolhe5959" /> </p>
 
 - 🌱 I’m currently learning **SpringBoot ,React**
